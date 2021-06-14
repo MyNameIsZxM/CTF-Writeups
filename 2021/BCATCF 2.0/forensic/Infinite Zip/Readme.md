@@ -2,7 +2,7 @@ Question:
 
 ![](https://github.com/MyNameIsZxM/CTF-Writeups/blob/main/2021/BCATCF%202.0/forensic/Infinite%20Zip/Question.png)
 
-1. We made a [script](https://github.com/MyNameIsZxM/CTF-Writeups/blob/main/2021/BCATCF%202.0/forensic/Infinite%20Zip/script.py) to extract the zips (courtesy of my friend Bannoob24)
+1. We made a [script](https://github.com/MyNameIsZxM/CTF-Writeups/blob/main/2021/BCATCF%202.0/forensic/Infinite%20Zip/script.py) to extract the [zips](https://github.com/MyNameIsZxM/CTF-Writeups/blob/main/2021/BCATCF%202.0/forensic/Infinite%20Zip/flag.zip) (courtesy of my friend Bannoob24)
 2. The last file is a png.
 3. The [flag.png](https://github.com/MyNameIsZxM/CTF-Writeups/blob/main/2021/BCATCF%202.0/forensic/Infinite%20Zip/flag.png) is a fake flag and the link doesnt help too.
 
