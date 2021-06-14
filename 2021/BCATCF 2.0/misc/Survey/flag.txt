@@ -1,0 +1,7 @@
+1. fill out the survey(or jsut enter necessary stuffs and skip the rest like me lol)
+2. the flag will be at the end of the form
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSefCMNF1KLjyrcSFKY_bVj2yC3C-gv8uhDjm3XeRDBq2KIwXg/viewform
+
+bcactf{so_long_and_thanks_for_all_the_flags}

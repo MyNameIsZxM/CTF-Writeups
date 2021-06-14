@@ -1,0 +1,3 @@
+1. open nc misc.bcactf.com 49155 in terminal
+
+bcactf{r41nb0w_P0p_t4rT5_g0_nY4_s3Dy0Bqd6u}

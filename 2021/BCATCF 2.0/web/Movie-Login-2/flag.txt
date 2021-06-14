@@ -1,0 +1,6 @@
+1. since there's a denylist, we have to workaround the login page
+2. after searching for sql injection methods online, i found this(http://www.securityidiots.com/Web-Pentest/SQL-Injection/bypass-login-using-sql-injection.html)
+3. i used ' or true-- for both the username and password
+4. the web showed an image and the flag is at the bottom
+
+bcactf{h0w_d1d_y0u_g3t_h3r3_th1s_t1m3?!?}

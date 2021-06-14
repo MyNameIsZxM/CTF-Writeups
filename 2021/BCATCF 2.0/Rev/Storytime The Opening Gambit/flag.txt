@@ -1,0 +1,5 @@
+1. based on the hints, a command line will help.
+2. use strings story and we should see the flag
+
+
+bcactf{w0ol_m4k3s_str1ng_ziv4mk3ca91b}

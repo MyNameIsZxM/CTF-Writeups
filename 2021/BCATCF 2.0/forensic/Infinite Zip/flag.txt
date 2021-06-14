@@ -1,0 +1,7 @@
+1. we made a script to extract the zips (courtesy of my friend Bannoob24)
+2. the last file is a png.
+3. the flag on the png is a fake flag and the link doesnt help too.
+4. i tried to strings | grep bca and got the flag.
+
+
+bcactf{z1p_1n51d3_4_z1p_4_3v3r}

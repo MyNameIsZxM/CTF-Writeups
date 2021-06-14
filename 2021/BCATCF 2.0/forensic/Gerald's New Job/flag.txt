@@ -1,0 +1,4 @@
+1. use binwalk on gerald.pdf
+2. open the extracted folder and we get an image with the flag
+
+bcactf{g3ra1d_15_a_ma5ter_p01yg1ot_0769348}

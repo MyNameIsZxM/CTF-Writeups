@@ -1,0 +1,9 @@
+1. got nothing from inspect element.
+2. when i try to turn off the light, the web gives a feedback "You must be admin to turn off the lights. Currently you are "vampire"."
+3. usually something about admin involves cookies
+4. i used a plugin called EditThisCookie to well... the name says it all lol.
+5. turns out i was correct. there was a cookie with the value "vampire"
+6. i changed it to admin and boom. the flag showed up.
+
+
+bcactf{c00k13s_s3rved_fr3sh_fr0m_th3_smart_0ven_cD7EE09kQ}

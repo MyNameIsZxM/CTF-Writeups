@@ -1,0 +1,5 @@
+1. tried using stegsolve but no result
+2. opened in hex editor but no luck
+3. used cyberchef and with the extract lsb we got the flag
+
+bcactf{h15_n@m3_i5nt_g3rard}
