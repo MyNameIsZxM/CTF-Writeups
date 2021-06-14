@@ -15,9 +15,7 @@ Question:
 
 ![](https://github.com/MyNameIsZxM/CTF-Writeups/blob/main/2021/BCATCF%202.0/Rev/A%20Fun%20Game/image.png)
 
-this reminds me when I was a kid and messed with cheat engine. Ah the nostalgia...
+This reminds me when I was a kid and messed with cheat engine. Ah the nostalgia...
 
-Flag:
-```
-bcactf{h0p3fu1ly_y0U_d1dNt_actUa1ly_tYpe_1000_1ett3rs}
-```
+Flag: `bcactf{h0p3fu1ly_y0U_d1dNt_actUa1ly_tYpe_1000_1ett3rs}`
+
