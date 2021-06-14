@@ -1,3 +1,0 @@
-1. Check announcement channel
-
-bcactf{is_too_sanity_checks_two_much?}
