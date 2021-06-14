@@ -1,7 +1,0 @@
-1. baed on the hint, i'm pretty sure we only need to change the user agent
-2. change the browser user agent to "Agent Gerald"
-3. reload the page and the flag will appear at the bottom of the page
-
-http://web.bcactf.com:49156/
-
-bcactf{y0u_h@ck3d_5tegos@urus_1nt3lligence}
