@@ -1,7 +1,0 @@
-1. the description and the hint points out to sanitize input SQL
-2. upon searching, i found this(https://www.quora.com/What-exactly-is-data-sanitization-with-respect-to-SQL-injection)
-3. input targetuser ' OR 1=1; -- in both username and password
-4. the web changes to an image with the flag at the bottom
-
-
-bcactf{s0_y0u_f04nd_th3_fl13r?}
