@@ -17,7 +17,7 @@ Files: [image.jpg](https://github.com/MyNameIsZxM/CTF-Writeups/blob/main/2021/Fi
 8. Dan ternyata flagnya ada di profile picture akun tersebut<br/>
 ![](https://github.com/MyNameIsZxM/CTF-Writeups/blob/main/2021/Find%20IT!%20UGM%202021/OSINT/Mega%20Chad/pic3.jpg)
 
-Flag: FindITCTF{av3rA93_9AN_fAc3_X1x1X1}
+Flag: `FindITCTF{av3rA93_9AN_fAc3_X1x1X1}`
 
 
 
