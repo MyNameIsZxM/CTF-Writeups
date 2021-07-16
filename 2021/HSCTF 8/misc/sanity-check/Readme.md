@@ -1,6 +1,6 @@
 Question:
 
-![]()
+![](https://github.com/MyNameIsZxM/CTF-Writeups/blob/main/2021/HSCTF%208/misc/sanity-check/Question.png)
 
 1. Do I need to even explain?
 
